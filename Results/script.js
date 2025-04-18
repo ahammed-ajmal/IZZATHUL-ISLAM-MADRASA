@@ -1,5 +1,5 @@
 // const apiUrl = "https://script.google.com/macros/s/AKfycbwmxklwEAhoW2E4cP2skLjFrfBLFgKkwN9UfPCcTAwY5aeX4PHA2TWfEWsqKhHFll9qTQ/exec";
-const apiUrl = "https://script.google.com/macros/s/AKfycbzBx3XmBBLlWDKm_i8ca3dzEmd6ZAcGlaL4su4D6eXVTifT12edqtOsAeC0mqnpl-W-QA/exec";
+const apiUrl = "https://script.google.com/macros/s/AKfycbyGCX_uEJaSMDQ1jSFH7svanwI6mY_Dkm7aPS1Gu0EFFY9JLmafHAlmY5hSIxr9QB7P2A/exec";
 
 function fetchStudentData(event) {
     event.preventDefault();

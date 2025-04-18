@@ -3,7 +3,7 @@ const urlsToCache = [
   "/",
   "/index.html",
   "/manifest.json",
-  "/src/assets/IMP LOGO.png"
+  "/src/assets/madrasa logo png.png"
 ];
 
 // Install Service Worker and Cache Files
